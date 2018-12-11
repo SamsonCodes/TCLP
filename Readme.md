@@ -1,3 +1,5 @@
+TCLP: Text Color Learning Program
+
 This is a Java program I created that evolves a neural network with a genetic algorithm to learn what text color to use for different background colors. 
 
 Instructions: 
